@@ -1,3 +1,3 @@
 # Web-Technology
 Web Technology Project
-wwww.atousa95.github.io
+https://atousa95.github.io/Web-Technology/
